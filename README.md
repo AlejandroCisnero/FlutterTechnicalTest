@@ -31,14 +31,14 @@ For IOS use this command:
 ```bash
 flutter build ipa 
 ```
-You can find your IPA in [project]/build/ios/archive/
+You can find your IPA in FlutterTechnicalTest/build/ios/archive/
 
 For Android use this command:
 
 ```bash
 flutter build apk --split-per-abi
 ```
-You can find your APK in [project]/build/app/outputs/apk/release/app-armeabi-v7a-release.apk
+You can find your APK in FlutterTechnicalTest/build/app/outputs/apk/release/app-armeabi-v7a-release.apk
 
 ## A small glance
 
