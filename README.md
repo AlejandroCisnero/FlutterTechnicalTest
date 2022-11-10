@@ -40,6 +40,14 @@ flutter build apk --split-per-abi
 ```
 You can find your APK in FlutterTechnicalTest/build/app/outputs/apk/release/app-armeabi-v7a-release.apk
 
+If you prefer to run the application on your phone via debugging, connect your phone, and run the following command:
+
+```bash
+flutter run -d all
+```
+
+Select your device and you are done.
+
 ## A small glance
 
 ![Flutter Technical Test Home Page Screenshot](https://github.com/AlejandroCisnero/FlutterTechnicalTest/blob/develop/FlutterTechnicalTestHomePage.jpeg)
