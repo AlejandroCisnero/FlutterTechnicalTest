@@ -42,4 +42,4 @@ You can find your APK in [project]/build/app/outputs/apk/release/app-armeabi-v7a
 
 ## A small glance
 
-![Flutter Technical Test Home Page Screenshot](https://github.com/AlejandroCisnero/FlutterTechnicalTest/FlutterTechnicalTestHomePage.jpeg?raw=true)
+![Flutter Technical Test Home Page Screenshot](https://github.com/AlejandroCisnero/FlutterTechnicalTest/blob/develop/FlutterTechnicalTestHomePage.jpeg)
